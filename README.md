@@ -26,7 +26,7 @@
 Specs is an Entity-Component System written in Rust.
 Unlike most other ECS libraries out there, it provides
 
-* easy parallelism
+* easy parallelism1
 * high flexibility
     * contains 5 different storages for components, which can be extended by the user
     * its types are mostly not coupled, so you can easily write some part yourself and
